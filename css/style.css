@@ -164,5 +164,15 @@ img {
         width: 100%;
     }
 
- 
+    .steps{
+        margin-bottom: 0em;
+    }
+
+    .why-us{
+        padding: 3em 0;
+        margin-bottom: 0;
+        background-color: #222222;
+    }
+
+  
  }
