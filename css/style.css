@@ -135,8 +135,10 @@ img {
     .container{
         max-width: 768px;
     }
-
  }
+
+
+
 
 
  /* Mobile View */
@@ -173,7 +175,17 @@ img {
         padding: 3em 0;
         margin-bottom: 0;
         background-color: #222222;
+    } 
+ }
+
+
+
+ /* Bonus View */
+ @media (min-width: 769px) and (max-width: 1159px){
+    .container{
+        max-width: 1140px;
+        width: 100%;
     }
 
-  
+   
  }
