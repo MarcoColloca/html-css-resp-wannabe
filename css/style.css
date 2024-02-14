@@ -134,6 +134,7 @@ img {
  @media (max-width:768px){
     .container{
         max-width: 768px;
+        width: 100%;
     }
  }
 
@@ -146,6 +147,7 @@ img {
  @media (max-width:480px){
     .container{
         max-width: 480px;
+        width: 100%;
     }
 
     .row{
@@ -183,9 +185,7 @@ img {
  /* Bonus View */
  @media (min-width: 769px) and (max-width: 1159px){
     .container{
-        max-width: 1140px;
+        max-width: 1159px;
         width: 100%;
-    }
-
-   
+    }  
  }
