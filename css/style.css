@@ -136,6 +136,10 @@ img {
         max-width: 768px;
         width: 100%;
     }
+
+    html{
+        font-size: 18px;
+    }
  }
 
 
@@ -170,15 +174,22 @@ img {
     }
 
     .steps{
-        margin-bottom: 0em;
+        margin-bottom: 0;
     }
 
     .why-us{
-        padding: 3em 0;
+        padding: 3rem 0;
         margin-bottom: 0;
         background-color: #222222;
     } 
+
+    html{
+        font-size: 21px;
+    }
  }
+
+
+
 
 
 
